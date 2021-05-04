@@ -1,4 +1,4 @@
-AI Course stucy links
+AI Course study links
 - GIT HUB
 -   1- Git+Hub intro-----
 
